@@ -2,7 +2,7 @@
 
 Live at https://joaomrsousa.github.io/Portfolio/
 
-Personal portfolio of João Sousa, software developer in Lisbon (.NET, React, OutSystems): a single static page with a Three.js particle field, animated project cards and a blue and grey theme.
+Personal portfolio of João Sousa, software developer in Lisbon (.NET, React, OutSystems): a single static page with a generated calçada portuguesa pavement you can inspect, light and dark modes, and an English/Portuguese switch.
 
 ## Run locally
 
